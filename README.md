@@ -20,7 +20,7 @@
   
 - 👨‍🎓 I'm a **BSIT Student** at **Xavier University Ateneo Cagayan De Oro**
 
-- ⚡ Fun fact **I have a godly sense of Humor, Friendly, and Loves inspect things**
+- ⚡ Fun fact **I have a godly sense of Humor, Friendly, and Loves to inspect things**
 
 <br/>
 
