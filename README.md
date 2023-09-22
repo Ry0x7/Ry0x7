@@ -44,8 +44,8 @@
 ## 🤝 Connect with me
 
 <p align="left">
-<a href="https://codepen.io/Ry0x7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ginoongflores" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ry0x7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="christianpaulflores" height="30" width="40" /></a>
+<a href="https://codepen.io/Ry0x7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ry0x7" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ry0x7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rychristoferpahente" height="30" width="40" /></a>
 </p>
 
 
@@ -57,4 +57,4 @@
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Ry0x7">
 </a>
-<a href="https://github.com/Ry0x7?tab=followers"><img src="https://img.shields.io/github/followers/ginoongflores?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/Ry0x7?tab=followers"><img src="https://img.shields.io/github/followers/Ry0x7?label=Followers&style=social" alt="GitHub Badge"></a>
