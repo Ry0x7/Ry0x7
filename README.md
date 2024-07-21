@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Front and Backend Programming (JS, Python, Java, C#, and API)**
   
-- 👯 I’m looking to collaborate on **Open Source**
+- 👯 I’m looking to collaborate on **Open Source** and **Bug Bounties**
 
 <!-- - 🤝 I’m looking for help with **Java, Android & Flutter** -->
 
