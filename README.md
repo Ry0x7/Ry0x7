@@ -4,7 +4,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 💻 I'm currently working on **College Course and Side Projects**
+- 💻 I'm currently working on **Side Projects**
 
 - 🌱 I’m currently learning **Front and Backend Programming (JS, Python, Java, C#, and API)**
   
@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **roxy0x7@proton.me**
   
-- 👨‍🎓 I'm a **BSIT Student** at **Xavier University Ateneo Cagayan De Oro**
+- 👨‍🎓 I'm a **BSIT Graduate** at **Xavier University Ateneo Cagayan De Oro**
 
 - ⚡ Fun fact **I have a godly sense of Humor, Friendly, and Loves to inspect things**
 
@@ -57,4 +57,4 @@
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Ry0x7">
 </a>
-<a href="https://github.com/Ry0x7?tab=followers"><img src="https://img.shields.io/github/followers/Ry0x7?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/Ry0x7?tab=followers"><img src="https://img.shields.io/github/followers/ry-pahente?label=Followers&style=social" alt="GitHub Badge"></a>
