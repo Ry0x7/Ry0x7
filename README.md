@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px">, I'm Ry Christofer! </h1>
-<h3 align="center">Aspiring Full Stack Developer from the Philippines</h3>
+<h3 align="center">Aspiring Penetration Tester from the Philippines</h3>
 <br/>
 
 ## 🙋‍♂️ About Me
@@ -18,8 +18,6 @@
 
 - 📫 How to reach me **roxy0x7@proton.me**
   
-- 👨‍🎓 I'm a **BSIT Graduate** at **Xavier University Ateneo Cagayan De Oro**
-
 - ⚡ Fun fact **I have a godly sense of Humor, Friendly, and Loves to inspect things**
 
 <br/>
