@@ -13,7 +13,7 @@
 
 ## About Me
 
-Fresh grad building full-stack web apps and AI-powered tools. Currently shipping a **Resume AI OS** — a career toolkit for software engineers powered by LLMs. Based in the Philippines, learning fast, and always building.
+Fresh grad building full-stack web apps and AI-powered tools. Currently shipping a **Resume AI OS** — a career toolkit for job seekers powered by LLMs. Based in the Philippines, learning fast, and always building.
 
 ---
 
@@ -21,7 +21,7 @@ Fresh grad building full-stack web apps and AI-powered tools. Currently shipping
 
 ### [Resume AI OS](https://github.com/Ry0x7)
 
-> An AI-powered career toolkit for software engineers — resume analysis, job matching, and interview prep powered by LLMs.
+> An AI-powered career toolkit for job seekers — resume analysis, job matching, and interview prep powered by LLMs.
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white)
