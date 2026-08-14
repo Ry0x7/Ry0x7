@@ -13,7 +13,7 @@
 
 ## About Me
 
-Fresh grad building full-stack web apps and AI-powered tools. Currently shipping a **Resume AI OS** — a career toolkit for job seekers powered by LLMs. Based in the Philippines, learning fast, and always building.
+Fresh grad building full-stack web apps and AI-powered tools. Currently shipping a **JobSeeking AI OS** — a career toolkit for job seekers powered by LLMs. Based in the Philippines, learning fast, and always building.
 
 ---
 
