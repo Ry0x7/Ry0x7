@@ -19,7 +19,7 @@ Fresh grad building full-stack web apps and AI-powered tools. Currently shipping
 
 ## 🚀 Current Build
 
-### [Resume AI OS](https://github.com/Ry0x7)
+### [JobSeeking AI OS](https://github.com/Ry0x7)
 
 > An AI-powered career toolkit for job seekers — resume analysis, job matching, and interview prep powered by LLMs.
 
