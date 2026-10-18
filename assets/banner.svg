@@ -1,0 +1,147 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 250" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#07030d" />
+      <stop offset="100%" stop-color="#12081c" />
+    </linearGradient>
+    <linearGradient id="panelGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#190f2b" />
+      <stop offset="100%" stop-color="#100a1a" />
+    </linearGradient>
+    <filter id="purpleGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+
+  <!-- Background Canvas -->
+  <rect width="900" height="250" fill="url(#bgGrad)" />
+
+  <!-- Subtle Dungeon Dot Grid (36px) -->
+  <g fill="#8b5cf6" opacity="0.18">
+    <circle cx="18" cy="18" r="1" /><circle cx="54" cy="18" r="1" /><circle cx="90" cy="18" r="1" /><circle cx="126" cy="18" r="1" /><circle cx="162" cy="18" r="1" /><circle cx="198" cy="18" r="1" /><circle cx="234" cy="18" r="1" /><circle cx="270" cy="18" r="1" /><circle cx="306" cy="18" r="1" /><circle cx="342" cy="18" r="1" /><circle cx="378" cy="18" r="1" /><circle cx="414" cy="18" r="1" /><circle cx="450" cy="18" r="1" /><circle cx="486" cy="18" r="1" /><circle cx="522" cy="18" r="1" /><circle cx="558" cy="18" r="1" /><circle cx="594" cy="18" r="1" /><circle cx="630" cy="18" r="1" /><circle cx="666" cy="18" r="1" /><circle cx="702" cy="18" r="1" /><circle cx="738" cy="18" r="1" /><circle cx="774" cy="18" r="1" /><circle cx="810" cy="18" r="1" /><circle cx="846" cy="18" r="1" /><circle cx="882" cy="18" r="1" />
+    <circle cx="18" cy="54" r="1" /><circle cx="54" cy="54" r="1" /><circle cx="90" cy="54" r="1" /><circle cx="126" cy="54" r="1" /><circle cx="162" cy="54" r="1" /><circle cx="198" cy="54" r="1" /><circle cx="234" cy="54" r="1" /><circle cx="270" cy="54" r="1" /><circle cx="306" cy="54" r="1" /><circle cx="342" cy="54" r="1" /><circle cx="378" cy="54" r="1" /><circle cx="414" cy="54" r="1" /><circle cx="450" cy="54" r="1" /><circle cx="486" cy="54" r="1" /><circle cx="522" cy="54" r="1" /><circle cx="558" cy="54" r="1" /><circle cx="594" cy="54" r="1" /><circle cx="630" cy="54" r="1" /><circle cx="666" cy="54" r="1" /><circle cx="702" cy="54" r="1" /><circle cx="738" cy="54" r="1" /><circle cx="774" cy="54" r="1" /><circle cx="810" cy="54" r="1" /><circle cx="846" cy="54" r="1" /><circle cx="882" cy="54" r="1" />
+    <circle cx="18" cy="90" r="1" /><circle cx="54" cy="90" r="1" /><circle cx="90" cy="90" r="1" /><circle cx="126" cy="90" r="1" /><circle cx="162" cy="90" r="1" /><circle cx="198" cy="90" r="1" /><circle cx="234" cy="90" r="1" /><circle cx="270" cy="90" r="1" /><circle cx="306" cy="90" r="1" /><circle cx="342" cy="90" r="1" /><circle cx="378" cy="90" r="1" /><circle cx="414" cy="90" r="1" /><circle cx="450" cy="90" r="1" /><circle cx="486" cy="90" r="1" /><circle cx="522" cy="90" r="1" /><circle cx="558" cy="90" r="1" /><circle cx="594" cy="90" r="1" /><circle cx="630" cy="90" r="1" /><circle cx="666" cy="90" r="1" /><circle cx="702" cy="90" r="1" /><circle cx="738" cy="90" r="1" /><circle cx="774" cy="90" r="1" /><circle cx="810" cy="90" r="1" /><circle cx="846" cy="90" r="1" /><circle cx="882" cy="90" r="1" />
+    <circle cx="18" cy="126" r="1" /><circle cx="54" cy="126" r="1" /><circle cx="90" cy="126" r="1" /><circle cx="126" cy="126" r="1" /><circle cx="162" cy="126" r="1" /><circle cx="198" cy="126" r="1" /><circle cx="234" cy="126" r="1" /><circle cx="270" cy="126" r="1" /><circle cx="306" cy="126" r="1" /><circle cx="342" cy="126" r="1" /><circle cx="378" cy="126" r="1" /><circle cx="414" cy="126" r="1" /><circle cx="450" cy="126" r="1" /><circle cx="486" cy="126" r="1" /><circle cx="522" cy="126" r="1" /><circle cx="558" cy="126" r="1" /><circle cx="594" cy="126" r="1" /><circle cx="630" cy="126" r="1" /><circle cx="666" cy="126" r="1" /><circle cx="702" cy="126" r="1" /><circle cx="738" cy="126" r="1" /><circle cx="774" cy="126" r="1" /><circle cx="810" cy="126" r="1" /><circle cx="846" cy="126" r="1" /><circle cx="882" cy="126" r="1" />
+    <circle cx="18" cy="162" r="1" /><circle cx="54" cy="162" r="1" /><circle cx="90" cy="162" r="1" /><circle cx="126" cy="162" r="1" /><circle cx="162" cy="162" r="1" /><circle cx="198" cy="162" r="1" /><circle cx="234" cy="162" r="1" /><circle cx="270" cy="162" r="1" /><circle cx="306" cy="162" r="1" /><circle cx="342" cy="162" r="1" /><circle cx="378" cy="162" r="1" /><circle cx="414" cy="162" r="1" /><circle cx="450" cy="162" r="1" /><circle cx="486" cy="162" r="1" /><circle cx="522" cy="162" r="1" /><circle cx="558" cy="162" r="1" /><circle cx="594" cy="162" r="1" /><circle cx="630" cy="162" r="1" /><circle cx="666" cy="162" r="1" /><circle cx="702" cy="162" r="1" /><circle cx="738" cy="162" r="1" /><circle cx="774" cy="162" r="1" /><circle cx="810" cy="162" r="1" /><circle cx="846" cy="162" r="1" /><circle cx="882" cy="162" r="1" />
+    <circle cx="18" cy="198" r="1" /><circle cx="54" cy="198" r="1" /><circle cx="90" cy="198" r="1" /><circle cx="126" cy="198" r="1" /><circle cx="162" cy="198" r="1" /><circle cx="198" cy="198" r="1" /><circle cx="234" cy="198" r="1" /><circle cx="270" cy="198" r="1" /><circle cx="306" cy="198" r="1" /><circle cx="342" cy="198" r="1" /><circle cx="378" cy="198" r="1" /><circle cx="414" cy="198" r="1" /><circle cx="450" cy="198" r="1" /><circle cx="486" cy="198" r="1" /><circle cx="522" cy="198" r="1" /><circle cx="558" cy="198" r="1" /><circle cx="594" cy="198" r="1" /><circle cx="630" cy="198" r="1" /><circle cx="666" cy="198" r="1" /><circle cx="702" cy="198" r="1" /><circle cx="738" cy="198" r="1" /><circle cx="774" cy="198" r="1" /><circle cx="810" cy="198" r="1" /><circle cx="846" cy="198" r="1" /><circle cx="882" cy="198" r="1" />
+    <circle cx="18" cy="234" r="1" /><circle cx="54" cy="234" r="1" /><circle cx="90" cy="234" r="1" /><circle cx="126" cy="234" r="1" /><circle cx="162" cy="234" r="1" /><circle cx="198" cy="234" r="1" /><circle cx="234" cy="234" r="1" /><circle cx="270" cy="234" r="1" /><circle cx="306" cy="234" r="1" /><circle cx="342" cy="234" r="1" /><circle cx="378" cy="234" r="1" /><circle cx="414" cy="234" r="1" /><circle cx="450" cy="234" r="1" /><circle cx="486" cy="234" r="1" /><circle cx="522" cy="234" r="1" /><circle cx="558" cy="234" r="1" /><circle cx="594" cy="234" r="1" /><circle cx="630" cy="234" r="1" /><circle cx="666" cy="234" r="1" /><circle cx="702" cy="234" r="1" /><circle cx="738" cy="234" r="1" /><circle cx="774" cy="234" r="1" /><circle cx="810" cy="234" r="1" /><circle cx="846" cy="234" r="1" /><circle cx="882" cy="234" r="1" />
+  </g>
+
+  <!-- Atmospheric Diagonal Mana Lines (115deg) -->
+  <g stroke="#8b5cf6" stroke-opacity="0.08" stroke-width="1">
+    <line x1="0" y1="20" x2="140" y2="250" />
+    <line x1="140" y1="0" x2="280" y2="250" />
+    <line x1="280" y1="0" x2="420" y2="250" />
+    <line x1="420" y1="0" x2="560" y2="250" />
+    <line x1="560" y1="0" x2="700" y2="250" />
+    <line x1="700" y1="0" x2="840" y2="250" />
+  </g>
+
+  <!-- Outer Frame & Corner Locks -->
+  <rect x="8" y="8" width="884" height="234" fill="none" stroke="#8b5cf6" stroke-opacity="0.25" stroke-width="1" />
+  <path d="M 8 28 L 8 8 L 28 8" fill="none" stroke="#a78bfa" stroke-width="2" />
+  <path d="M 872 8 L 892 8 L 892 28" fill="none" stroke="#a78bfa" stroke-width="2" />
+  <path d="M 8 222 L 8 242 L 28 242" fill="none" stroke="#a78bfa" stroke-width="2" />
+  <path d="M 872 242 L 892 242 L 892 222" fill="none" stroke="#a78bfa" stroke-width="2" />
+
+  <!-- ==================== SYSTEM HUD WINDOW ==================== -->
+  <g transform="translate(18, 16)">
+    <!-- Window Drop Shadow -->
+    <rect x="4" y="4" width="864" height="218" fill="#030208" opacity="0.85" />
+
+    <!-- Window Body -->
+    <rect x="0" y="0" width="864" height="218" fill="url(#panelGrad)" stroke="#8b5cf6" stroke-width="1.2" />
+
+    <!-- Corner Brackets (sys-window aesthetic) -->
+    <path d="M -1 16 L -1 -1 L 16 -1" fill="none" stroke="#8b5cf6" stroke-width="2" />
+    <path d="M 849 219 L 865 219 L 865 203" fill="none" stroke="#8b5cf6" stroke-width="2" />
+
+    <!-- Titlebar -->
+    <rect x="1" y="1" width="862" height="32" fill="#1c1230" />
+    <line x1="0" y1="33" x2="864" y2="33" stroke="#8b5cf6" stroke-width="1" />
+
+    <!-- Titlebar Header Text -->
+    <text x="14" y="22" font-family="'JetBrains Mono', 'Fira Code', 'Courier New', monospace" font-size="12" font-weight="bold" fill="#a78bfa" letter-spacing="1">[ SYSTEM://STATUS.HUD ]</text>
+
+    <!-- Right Header Badges -->
+    <!-- GATE OPEN -->
+    <g transform="translate(754, 7)">
+      <rect x="0" y="0" width="96" height="19" fill="#10281b" stroke="#4ade80" stroke-width="1" />
+      <circle cx="10" cy="9.5" r="3.5" fill="#4ade80" />
+      <text x="20" y="13.5" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="9" font-weight="bold" fill="#4ade80" letter-spacing="0.5">GATE OPEN</text>
+    </g>
+
+    <!-- S-CLASS HUNTER -->
+    <g transform="translate(636, 7)">
+      <rect x="0" y="0" width="110" height="19" fill="#281442" stroke="#a78bfa" stroke-width="1" />
+      <text x="8" y="13.5" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="9" font-weight="bold" fill="#c4b5fd" letter-spacing="0.5">S-CLASS HUNTER</text>
+    </g>
+
+    <!-- AWAKENED -->
+    <g transform="translate(540, 7)">
+      <rect x="0" y="0" width="88" height="19" fill="#180e30" stroke="#8b5cf6" stroke-width="1" />
+      <text x="10" y="13.5" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="9" font-weight="bold" fill="#67e8f9" letter-spacing="0.5">AWAKENED</text>
+    </g>
+
+    <!-- ==================== BODY CONTENT ==================== -->
+    <g font-family="'JetBrains Mono', 'Fira Code', 'Courier New', monospace">
+      <!-- Row 1: Player / Handle / Level -->
+      <g transform="translate(18, 55)">
+        <text x="0" y="0" font-size="11" font-weight="bold" fill="#b5a1d9">PLAYER :</text>
+        <text x="70" y="0" font-size="11" font-weight="bold" fill="#e9d5ff">Ry Christofer Pahente</text>
+
+        <text x="320" y="0" font-size="11" font-weight="bold" fill="#b5a1d9">HANDLE :</text>
+        <text x="390" y="0" font-size="11" font-weight="bold" fill="#67e8f9">Ry0x7</text>
+
+        <text x="600" y="0" font-size="11" font-weight="bold" fill="#b5a1d9">LEVEL  :</text>
+        <text x="665" y="0" font-size="11" font-weight="bold" fill="#4ade80">99 [MAX]</text>
+      </g>
+
+      <!-- Row 2: Class / Focus / Base -->
+      <g transform="translate(18, 76)">
+        <text x="0" y="0" font-size="11" font-weight="bold" fill="#b5a1d9">CLASS  :</text>
+        <text x="70" y="0" font-size="11" font-weight="bold" fill="#e9d5ff">Full-Stack Developer</text>
+
+        <text x="320" y="0" font-size="11" font-weight="bold" fill="#b5a1d9">FOCUS  :</text>
+        <text x="390" y="0" font-size="11" font-weight="bold" fill="#c4b5fd">App Security &amp; Autonomous AI</text>
+
+        <text x="600" y="0" font-size="11" font-weight="bold" fill="#b5a1d9">BASE   :</text>
+        <text x="665" y="0" font-size="11" font-weight="bold" fill="#e9d5ff">Cagayan de Oro, PH</text>
+      </g>
+
+      <!-- Segmented HP & MP Bars -->
+      <g transform="translate(18, 98)">
+        <!-- HP -->
+        <text x="0" y="10" font-size="11" font-weight="bold" fill="#ff4d5e">HP</text>
+        <g transform="translate(28, 1)">
+          <!-- Segmented blocks (24 blocks) -->
+          <rect x="0" y="0" width="8" height="11" fill="#ff4d5e" /><rect x="10" y="0" width="8" height="11" fill="#ff4d5e" /><rect x="20" y="0" width="8" height="11" fill="#ff4d5e" /><rect x="30" y="0" width="8" height="11" fill="#ff4d5e" /><rect x="40" y="0" width="8" height="11" fill="#ff4d5e" /><rect x="50" y="0" width="8" height="11" fill="#ff4d5e" /><rect x="60" y="0" width="8" height="11" fill="#ff4d5e" /><rect x="70" y="0" width="8" height="11" fill="#ff4d5e" /><rect x="80" y="0" width="8" height="11" fill="#ff4d5e" /><rect x="90" y="0" width="8" height="11" fill="#ff4d5e" /><rect x="100" y="0" width="8" height="11" fill="#ff4d5e" /><rect x="110" y="0" width="8" height="11" fill="#ff4d5e" /><rect x="120" y="0" width="8" height="11" fill="#ff4d5e" /><rect x="130" y="0" width="8" height="11" fill="#ff4d5e" /><rect x="140" y="0" width="8" height="11" fill="#ff4d5e" /><rect x="150" y="0" width="8" height="11" fill="#ff4d5e" /><rect x="160" y="0" width="8" height="11" fill="#ff4d5e" /><rect x="170" y="0" width="8" height="11" fill="#ff4d5e" /><rect x="180" y="0" width="8" height="11" fill="#ff4d5e" /><rect x="190" y="0" width="8" height="11" fill="#ff4d5e" /><rect x="200" y="0" width="8" height="11" fill="#ff4d5e" /><rect x="210" y="0" width="8" height="11" fill="#ff4d5e" /><rect x="220" y="0" width="8" height="11" fill="#ff4d5e" /><rect x="230" y="0" width="8" height="11" fill="#ff4d5e" />
+          <text x="246" y="9.5" font-size="9.5" font-weight="bold" fill="#e9d5ff">100%</text>
+        </g>
+
+        <!-- MP -->
+        <text x="430" y="10" font-size="11" font-weight="bold" fill="#a78bfa">MP</text>
+        <g transform="translate(458, 1)">
+          <!-- Segmented blocks (24 blocks) -->
+          <rect x="0" y="0" width="8" height="11" fill="#8b5cf6" /><rect x="10" y="0" width="8" height="11" fill="#8b5cf6" /><rect x="20" y="0" width="8" height="11" fill="#8b5cf6" /><rect x="30" y="0" width="8" height="11" fill="#8b5cf6" /><rect x="40" y="0" width="8" height="11" fill="#8b5cf6" /><rect x="50" y="0" width="8" height="11" fill="#8b5cf6" /><rect x="60" y="0" width="8" height="11" fill="#8b5cf6" /><rect x="70" y="0" width="8" height="11" fill="#8b5cf6" /><rect x="80" y="0" width="8" height="11" fill="#8b5cf6" /><rect x="90" y="0" width="8" height="11" fill="#8b5cf6" /><rect x="100" y="0" width="8" height="11" fill="#8b5cf6" /><rect x="110" y="0" width="8" height="11" fill="#8b5cf6" /><rect x="120" y="0" width="8" height="11" fill="#8b5cf6" /><rect x="130" y="0" width="8" height="11" fill="#8b5cf6" /><rect x="140" y="0" width="8" height="11" fill="#8b5cf6" /><rect x="150" y="0" width="8" height="11" fill="#8b5cf6" /><rect x="160" y="0" width="8" height="11" fill="#8b5cf6" /><rect x="170" y="0" width="8" height="11" fill="#8b5cf6" /><rect x="180" y="0" width="8" height="11" fill="#8b5cf6" /><rect x="190" y="0" width="8" height="11" fill="#8b5cf6" /><rect x="200" y="0" width="8" height="11" fill="#8b5cf6" /><rect x="210" y="0" width="8" height="11" fill="#8b5cf6" /><rect x="220" y="0" width="8" height="11" fill="#8b5cf6" /><rect x="230" y="0" width="8" height="11" fill="#8b5cf6" />
+          <text x="246" y="9.5" font-size="9.5" font-weight="bold" fill="#67e8f9">MAX</text>
+        </g>
+      </g>
+
+      <!-- Structural Divider with Center Diamond -->
+      <line x1="18" y1="126" x2="846" y2="126" stroke="#8b5cf6" stroke-opacity="0.35" stroke-width="1" />
+      <polygon points="432,123 435,126 432,129 429,126" fill="#a78bfa" />
+
+      <!-- Active System Directive Box -->
+      <g transform="translate(18, 137)">
+        <rect x="0" y="0" width="828" height="68" fill="#130922" stroke="#8b5cf6" stroke-opacity="0.6" stroke-width="1" />
+        <rect x="0" y="0" width="4" height="68" fill="#8b5cf6" />
+
+        <text x="16" y="19" font-size="10.5" font-weight="bold" fill="#a78bfa" letter-spacing="0.5">&gt;&gt; ACTIVE SYSTEM DIRECTIVE : SHIP PRODUCTION-GRADE SOFTWARE</text>
+        <text x="16" y="38" font-size="10" fill="#e9d5ff"><tspan font-weight="bold" fill="#c4b5fd">FLAGSHIP :</tspan> RoleSpec OS — Autonomous Job-Seeking AI Operating System &amp; ATS Studio</text>
+        <text x="16" y="55" font-size="9.5" fill="#b5a1d9"><tspan font-weight="bold" fill="#67e8f9">GATES    :</tspan> ClipForage (Media Engine)  •  Orbifier  •  Bob The Cat  •  GCon  •  RSB</text>
+      </g>
+    </g>
+  </g>
+</svg>
