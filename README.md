@@ -15,14 +15,6 @@ I'm a software developer based in Cagayan de Oro, Philippines. I build desktop u
 
 ---
 
-## Portfolio — SIGNAL / FORM
-
-[![Live capture of ry0x7.dev SIGNAL / FORM monochrome hero featuring stippled 3D hand art, name, and direct navigation](assets/portfolio-signal-form.webp)](https://ry0x7.dev/)
-
-ry0x7.dev is a static portfolio in the monochrome SIGNAL / FORM design system. Ink-and-paper surfaces meet a scroll-linked scene with a reduced-motion fallback. See [Selected work](https://ry0x7.dev/#workstation) and the [project index](https://ry0x7.dev/#projects).
-
----
-
 ## Links
 
 [Portfolio](https://ry0x7.dev/) · [LinkedIn](https://linkedin.com/in/ry0x7) · [Email](mailto:roxy0x7@proton.me) · [Ko-fi](https://ko-fi.com/ry0x7)
